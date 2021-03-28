@@ -1,4 +1,4 @@
-# Ambiente Docker PHP
+# Ambiente Docker PHP Laravel
 
 Um ambiente de desenvolvimento Docker para ser utilizado em Laravel.
 
